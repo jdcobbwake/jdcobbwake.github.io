@@ -12,7 +12,7 @@
 
 ## 4. A brief description of the steps you took to clone the repository onto your local machine
  * On my GitHub account I chose the option to "clone a Repository from the internet". I cloned my repository; jdcobbwake.github.io to the folder C:\Users\aarons\Documents\GitHub\jdcobbwake.github.io
- * # About Me
+ # About Me
 ## My Intertest
    * I love to go to the gym
    * my favorite color is blue
